@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ValaisBooking
+namespace ConsoleApp
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {

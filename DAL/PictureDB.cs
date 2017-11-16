@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ValaisBooking
+namespace DAL
 {
-    public class Program
+    class PictureDB
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
